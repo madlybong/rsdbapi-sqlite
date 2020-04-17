@@ -1,0 +1,14 @@
+{
+  "name": "rsdbapi-sqlite",
+  "version": "0.1.0",
+  "description": "crud api",
+  "main": "lib/index.js",
+  "author": "madlybong <madlybong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
